@@ -1,0 +1,18 @@
+{
+  "dataset": "BANKING77 (PolyAI)",
+  "license": "CC BY 4.0",
+  "repository": "https://github.com/PolyAI-LDN/task-specific-datasets",
+  "first_download_utc": "2026-10-21T06:12:07.550245+00:00",
+  "files": {
+    "train": {
+      "url": "https://raw.githubusercontent.com/PolyAI-LDN/task-specific-datasets/master/banking_data/train.csv",
+      "sha256": "b06e26ac675513959a63135f11b94ea7786ed02da65db93a5650d8838cbc664b",
+      "bytes": 839073
+    },
+    "test": {
+      "url": "https://raw.githubusercontent.com/PolyAI-LDN/task-specific-datasets/master/banking_data/test.csv",
+      "sha256": "d12d6e3bc4c3103966ae786dc435913c0c563dfa328f5a3646d0e62cfeeb474d",
+      "bytes": 239961
+    }
+  }
+}
