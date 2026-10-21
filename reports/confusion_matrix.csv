@@ -1,0 +1,11 @@
+,card_arrival,cash_withdrawal_charge,change_pin,declined_card_payment,failed_transfer,lost_or_stolen_card,passcode_forgotten,pending_transfer,terminate_account,transfer_not_received_by_recipient
+card_arrival,38,0,0,0,0,1,0,0,0,1
+cash_withdrawal_charge,0,40,0,0,0,0,0,0,0,0
+change_pin,0,0,38,0,0,0,0,0,1,0
+declined_card_payment,0,0,0,40,0,0,0,0,0,0
+failed_transfer,1,0,0,0,37,0,0,0,0,2
+lost_or_stolen_card,1,0,0,1,0,37,0,0,0,1
+passcode_forgotten,0,0,0,0,0,0,40,0,0,0
+pending_transfer,0,0,0,0,3,0,0,35,0,2
+terminate_account,0,0,0,0,0,0,0,0,40,0
+transfer_not_received_by_recipient,0,0,0,0,2,0,0,2,0,36

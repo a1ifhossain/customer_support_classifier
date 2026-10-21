@@ -1,0 +1,19 @@
+text,actual,predicted,model_score_uncalibrated
+I ordered a card but it has not arrived. Help please!,card_arrival,transfer_not_received_by_recipient,0.3826345703556547
+"I'm starting to think my card is lost because it still hasn't arrived, can you help?",card_arrival,lost_or_stolen_card,0.47319826208289323
+Is a copy of the police report necessary for completing the report process?,lost_or_stolen_card,transfer_not_received_by_recipient,0.1982317192026992
+My card was taken from me,lost_or_stolen_card,declined_card_payment,0.42216292138361594
+I cannot find my credit card.,lost_or_stolen_card,card_arrival,0.2545938058222162
+how long do money transfers take?,transfer_not_received_by_recipient,pending_transfer,0.5874619537972029
+transaction failed?,transfer_not_received_by_recipient,failed_transfer,0.5053255995682755
+I need to find out why my transfer didn't get there.,transfer_not_received_by_recipient,failed_transfer,0.5874618372263483
+When will my funds transfer?,transfer_not_received_by_recipient,pending_transfer,0.44853638672927404
+"I transferred money yesterday, but it still isn't available?",pending_transfer,transfer_not_received_by_recipient,0.698183640588598
+Why hasn't my transfer gone through yet?,pending_transfer,failed_transfer,0.544631980661102
+When will my transfer go through?,pending_transfer,failed_transfer,0.4375631736782464
+Someone transferred money to me and it doesn't show,pending_transfer,transfer_not_received_by_recipient,0.5010733776859732
+My transfer hasn't gone through yet.,pending_transfer,failed_transfer,0.48573487871597054
+How do I update the PIN on my account?,change_pin,terminate_account,0.39483635599368055
+Why hasn't my transfer been made?,failed_transfer,transfer_not_received_by_recipient,0.42436985405867494
+What are your policies for card transfers?,failed_transfer,card_arrival,0.19636766436642378
+What is stopping my money from transferring?,failed_transfer,transfer_not_received_by_recipient,0.32619215166422594
