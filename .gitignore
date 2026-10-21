@@ -1,0 +1,8 @@
+.venv/
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.streamlit/secrets.toml
+MY_NOTES.md
