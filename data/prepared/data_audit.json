@@ -1,0 +1,19 @@
+{
+  "train": {
+    "source_rows": 10003,
+    "selected_rows": 1356,
+    "empty_rows_removed": 0,
+    "conflicting_label_rows_removed": 0,
+    "duplicate_rows_removed": 1
+  },
+  "test": {
+    "source_rows": 3080,
+    "selected_rows": 400,
+    "empty_rows_removed": 0,
+    "conflicting_label_rows_removed": 0,
+    "duplicate_rows_removed": 0,
+    "train_overlap_rows_removed": 1
+  },
+  "final_train_rows": 1355,
+  "final_test_rows": 399
+}

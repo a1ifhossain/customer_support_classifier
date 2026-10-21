@@ -1,0 +1,400 @@
+text,category
+How do I locate my card?,card_arrival
+"I still have not received my new card, I ordered over a week ago.",card_arrival
+I ordered a card but it has not arrived. Help please!,card_arrival
+Is there a way to know when my card will arrive?,card_arrival
+My card has not arrived yet.,card_arrival
+When will I get my card?,card_arrival
+Do you know if there is a tracking number for the new card you sent me?,card_arrival
+i have not received my card,card_arrival
+still waiting on that card,card_arrival
+Is it normal to have to wait over a week for my new card?,card_arrival
+How do I track my card?,card_arrival
+How long does a card delivery take?,card_arrival
+I still don't have my card after 2 weeks.  What should I do?,card_arrival
+still waiting on my new card,card_arrival
+I am still waiting for my card after 1 week.  Is this ok?,card_arrival
+"I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?",card_arrival
+I've been waiting longer than expected for my card.,card_arrival
+Why hasn't my card been delivered?,card_arrival
+Where is my new card? I have been waiting a week!,card_arrival
+My card still hasn't arrived after 2 weeks. Is it lost?,card_arrival
+"I did not get my card yet, is it lost?",card_arrival
+Status of the card I ordered.,card_arrival
+How long should my new card take to arrive?,card_arrival
+I ordered my card 2 weeks ago and it still isn't here? What do I do?,card_arrival
+"My card has not arrived yet, where is it?",card_arrival
+What is the tracking number for my card that was mailed?,card_arrival
+I think something went wrong with my card delivery as I haven't received it yet.,card_arrival
+"I'm still waiting for delivery of my new card, why is it taking so long?",card_arrival
+"I ordered a card a week ago, and it's still not here. What do I do?",card_arrival
+i want to track the card you sent,card_arrival
+My card hasn't arrived yet.,card_arrival
+I was expecting my new card and am wondering why I haven't received it yet?,card_arrival
+How do I know when my card will arrive?,card_arrival
+I'm still waiting on my card to be delivered.,card_arrival
+Does the card you sent have a way to track to it?,card_arrival
+I ordered a card and I still haven't received it. It's been two weeks. What can I do?,card_arrival
+"I'm starting to think my card is lost because it still hasn't arrived, can you help?",card_arrival
+Is there tracking info available?,card_arrival
+What is the tracking number for the card you sent?,card_arrival
+Where is the tracking number for the card you sent me?,card_arrival
+"My entire gym bag, including my wallet, was stolen out of my locker today. Everything in my wallet is gone - how do I block the card to make it can't be used?",lost_or_stolen_card
+I can't find my card and think it may have been stolen.,lost_or_stolen_card
+"Someone stole my card. I need to report it stolen. I made a police report already, but how do I report it with you?",lost_or_stolen_card
+"I cant find my card, it's gone.",lost_or_stolen_card
+My card is lost! What can I do?,lost_or_stolen_card
+I lost my card,lost_or_stolen_card
+Oh no!  I lost my card!  Help!,lost_or_stolen_card
+"I believe my card has been stolen, what can I do about this situation? It's urgent.",lost_or_stolen_card
+Help! Someone stole my card!,lost_or_stolen_card
+Help.  I have a stolen card!,lost_or_stolen_card
+"card is lost, please help",lost_or_stolen_card
+How do I report my card stolen?,lost_or_stolen_card
+My card is gone I think it was stolen,lost_or_stolen_card
+Is a copy of the police report necessary for completing the report process?,lost_or_stolen_card
+I lost my wallet today with all my credit cards. Will you please block the card and send a replacement?,lost_or_stolen_card
+How do I deal with a stolen card?,lost_or_stolen_card
+Can you freeze my card it was stolen,lost_or_stolen_card
+Help!  I can't find my card.,lost_or_stolen_card
+What should I do if I lost my card?,lost_or_stolen_card
+I need help with a lost card,lost_or_stolen_card
+I think my card was stolen.,lost_or_stolen_card
+"Someone stole my wallet earlier today, not sure exactly when, probably on Piccadilly circus. Can you check if there were any attempts to use the card and obviously block it?",lost_or_stolen_card
+I think I lost my card . I dont know how long it has been missing. Can you see if maybe someone else has been using it?,lost_or_stolen_card
+How can I freeze a stolen card?,lost_or_stolen_card
+What should I do if my card is missing?,lost_or_stolen_card
+My bags were stolen. I need a new card but need to cancel the stolen one.,lost_or_stolen_card
+Somehow I am missing my card.  What should I do?,lost_or_stolen_card
+My card was taken from me,lost_or_stolen_card
+My card got lost.,lost_or_stolen_card
+Some idiot stole my card.,lost_or_stolen_card
+How do I report my card lost or stolen?,lost_or_stolen_card
+My card is lost! What do I do now?,lost_or_stolen_card
+I'm in Spain and my stuff has been stolen. My card was with it and I need a new one shipped and the old one frozen.,lost_or_stolen_card
+I believe my credit card was stolen.,lost_or_stolen_card
+How do I report a stolen card?,lost_or_stolen_card
+"Somebody has stolen my card, I need help please.",lost_or_stolen_card
+I cannot find my credit card.,lost_or_stolen_card
+Are you able to locate my card?,lost_or_stolen_card
+My card got stolen!,lost_or_stolen_card
+Help me please!  My card was stolen!,lost_or_stolen_card
+"I completed an in country transfer a few days ago and was sure to check the account information several times since the transaction was completed, but the funds are still not available. What is the problem?",transfer_not_received_by_recipient
+My money transfer has not arrived.,transfer_not_received_by_recipient
+I am still waiting for a transaction to be completed,transfer_not_received_by_recipient
+I made a money transaction but the recipient can't see it,transfer_not_received_by_recipient
+I tried to send someone money but they haven't received it.,transfer_not_received_by_recipient
+How long does it take for a transfer to get to a recipient?,transfer_not_received_by_recipient
+How can the recipient see my money transaction?,transfer_not_received_by_recipient
+I transferred money but the recipient says it has not arrived. Why would this be?,transfer_not_received_by_recipient
+The transfer I did hasn't arrived,transfer_not_received_by_recipient
+how long do money transfers take?,transfer_not_received_by_recipient
+I transferred some money and it didint arrive,transfer_not_received_by_recipient
+Where is the transfer I started?,transfer_not_received_by_recipient
+transaction failed?,transfer_not_received_by_recipient
+"I just finished sending money, but it's not logging on the recipient side.",transfer_not_received_by_recipient
+I completed a money transaction but the recipient hasn't received it,transfer_not_received_by_recipient
+The receipient doesn't see my money transfer.,transfer_not_received_by_recipient
+"I transferred the rent payment for my new place a couple days ago but the landlord says it's not there yet, despite showing up as done on my side. I checked the account number I sent it to and it's definitely correct. Can you please verify if the transaction really went through or not?",transfer_not_received_by_recipient
+I need to find out why my transfer didn't get there.,transfer_not_received_by_recipient
+"I've just moved address from a place in Durham to a place in Walton-On-The-Naze.  I have a new landlord at my new house and they haven't got my payment but I know I sent it on time, can you check they got it please?",transfer_not_received_by_recipient
+I sent money.  They haven't received it.,transfer_not_received_by_recipient
+"Hey, I need some help figuring out way my transfer is not complete yet. My Landlord hasn't got the money yet.She should have received it by now.",transfer_not_received_by_recipient
+"The day before yesterday, I performed a transfer which was within this country. It still hasn't gone through. Can you check on that? The account number is definitely correct, as I've checked and double checked.",transfer_not_received_by_recipient
+"I'm having a problem with a money transfer.  I sent some money to a friend a couple of hours ago, and they haven't received it yet.  Why hasn't it gotten to them? How long do transfers need to go through?",transfer_not_received_by_recipient
+I transferred some money but the receiver can't pick it up for some reason.,transfer_not_received_by_recipient
+Where is the transaction I made to a friend?,transfer_not_received_by_recipient
+My friend still hasn't gotten a transaction I made.,transfer_not_received_by_recipient
+Im waiting for my transaction to go through.,transfer_not_received_by_recipient
+I made a transaction and it is taking a very long time to go through.,transfer_not_received_by_recipient
+Is there a reason why my transaction is taking so long?,transfer_not_received_by_recipient
+How long will it take for my transaction to be completed?,transfer_not_received_by_recipient
+I sent some money and the receiver can't access it.,transfer_not_received_by_recipient
+I sent my friend some money a few hours ago but she has not received it yet. She really needs it. How long does this take?,transfer_not_received_by_recipient
+The person I sent money to hasn't gotten it yet!,transfer_not_received_by_recipient
+When will my funds transfer?,transfer_not_received_by_recipient
+"How long does it take for transfers to finish?  I sent funds to my pal, and she says that she has not gotten anything.",transfer_not_received_by_recipient
+"How long do transfers need to come through? I sent some money to a friend, she needs it urgently, but seems it's still not there yet after a couple hours.",transfer_not_received_by_recipient
+How long until my friend receives my transaction?,transfer_not_received_by_recipient
+Why hasn't my recipient received their money?,transfer_not_received_by_recipient
+I am still awaiting the completion of the transaction.,transfer_not_received_by_recipient
+I transferred some money but the recipient is having trouble withdrawing.,transfer_not_received_by_recipient
+What do I do if I forget my passcode?  Because I did.,passcode_forgotten
+I can't find my password,passcode_forgotten
+How do I retrieve my passcode?,passcode_forgotten
+My passcode doesn't seem to be working,passcode_forgotten
+I lost my password,passcode_forgotten
+My password isn't being accepted and I need to reset it.,passcode_forgotten
+Something is wrong with my password.,passcode_forgotten
+Something is wrong with my passcode,passcode_forgotten
+"How do I reset a forgotten passcode, please?",passcode_forgotten
+I can't recall my passcode and need to reset it.,passcode_forgotten
+Can I be given a new passcode?,passcode_forgotten
+I do not know my passcode.,passcode_forgotten
+I don't remember my code to get into the app.,passcode_forgotten
+I no longer have my passcode.,passcode_forgotten
+Why won't my passcode work?,passcode_forgotten
+Can I resent my passcode?,passcode_forgotten
+I need to reset my passcode. How do I do it?,passcode_forgotten
+Show me please how to reset my passcode.,passcode_forgotten
+Help me reset the passcode.,passcode_forgotten
+I have forgotten my passcode to access my app,passcode_forgotten
+What should I do if the passcode doesn't work for me?,passcode_forgotten
+"I do not remember the code, what should I do?",passcode_forgotten
+Where can I reset the passcode?,passcode_forgotten
+I need help resetting my passcode to access my app.,passcode_forgotten
+What steps do I take to receive another passcode?,passcode_forgotten
+I forgot my password,passcode_forgotten
+I forgot my code to get into the app.,passcode_forgotten
+I have forgotten my password.,passcode_forgotten
+I forgot the code to access the app.,passcode_forgotten
+Is there a way to reset my passcode?,passcode_forgotten
+Can you help me reset my password?,passcode_forgotten
+Can I reset my password?  I don't know what it is.,passcode_forgotten
+How do I reset the passcode?,passcode_forgotten
+What should I do if I forgot my passcode?,passcode_forgotten
+My passcode doesn't work,passcode_forgotten
+Tell me how to reset the passcode.,passcode_forgotten
+I need a new passcode.,passcode_forgotten
+I don't have my access code for the app.,passcode_forgotten
+Can you tell me what to do to reset my passcode?,passcode_forgotten
+What is the code I need to get into the app?,passcode_forgotten
+My credit card was declined.,declined_card_payment
+The new card that was just sent to me was declined multiple times yesterday when I tried to use it at a restaurant to pay for my dinner.  I am really disappointed  and embarrassed that my card was denied when I tried to use it to pay for my friend's birthday dinner.,declined_card_payment
+Why was my card payment declined?,declined_card_payment
+I was trying to purchase something at the store today and my card has been declined.  Why has this happened?,declined_card_payment
+"My payment has been declined, I thought this issue was fixed!",declined_card_payment
+My card was declined in a shop,declined_card_payment
+Why did it decline my payment?,declined_card_payment
+My card declined,declined_card_payment
+Can you look at my account ans see why my card was declined,declined_card_payment
+"I was out today looking forward to pay with my new card, turns out the payment just kept getting declined. This is really sad, what's going on?",declined_card_payment
+Why was a transaction on my card declined?,declined_card_payment
+My new card keeps getting declined. I was very excited to use it for the first time today. Why is this doing this?,declined_card_payment
+"My latest payment was declined, I was told everything was back to working order. What happened?",declined_card_payment
+I know I have enough funds in my account but my card payment hasn't worked for some reason. What do I do?,declined_card_payment
+Why doesn't the card payment work,declined_card_payment
+I'm really stuck. I don't know why but my card payment has not gone through.,declined_card_payment
+"I have a card payment that was declined, but why?",declined_card_payment
+Do you know why my card payment did not work?,declined_card_payment
+Something is wrong with my payment account since it has been declined,declined_card_payment
+Why are you declining my payment? Everything was fine.,declined_card_payment
+I don't know why my payment didn't work.,declined_card_payment
+My card payment did not work.,declined_card_payment
+Why is my debit card being declined when I have money?,declined_card_payment
+My card was not accepted.,declined_card_payment
+I have no idea why my card payment did not work.,declined_card_payment
+"My card payment didn't work, can you help?",declined_card_payment
+"My card was rejected at the store for some reason, can you look into this for me?",declined_card_payment
+Please explain why my card was declined?,declined_card_payment
+"Hello, I am facing the issue with my new card as payments are declining again and again. Please help me in this issue.",declined_card_payment
+Do you know why my card payment is declined?,declined_card_payment
+Why was my Payment declined,declined_card_payment
+They declined my card payment.,declined_card_payment
+Why has my card payment been declined?,declined_card_payment
+"I finally got my new card and was very excited to use it today. However, my payment kept declining. What is happening?",declined_card_payment
+My card payment did not complete.,declined_card_payment
+My card didn't work in one of the shops.,declined_card_payment
+Card payment declined?,declined_card_payment
+"I tried using my card and it kept getting declined, Why?",declined_card_payment
+How do you fix  my card payment?,declined_card_payment
+Why do you keep declining my payment? I tried several times already with this card and it's just not working,declined_card_payment
+"I did transfer, why is it pending",pending_transfer
+How long for money transfer to show?,pending_transfer
+Why is my transfer not done yet?,pending_transfer
+I have a pending transfer,pending_transfer
+I am waiting for a pending money transfer to process.,pending_transfer
+i transfered however its still pending,pending_transfer
+I have a transfer that's pending and wanted to know how long it is going to take to process?,pending_transfer
+So the transfer finally worked but now it's been pending for quite a long time. How long do you expect me to wait for it? It's quite urgent,pending_transfer
+I had made a transfer but its still pending.,pending_transfer
+I submitted my transfer but it has been pending for quite a while and I was wondering what takes so long? why hasn't it completed,pending_transfer
+How can I speed up a transfer?  Mine is pending.,pending_transfer
+How long can an EU transfer take?,pending_transfer
+My transfer is still coming up as pending.,pending_transfer
+I'm trying to transfer money to another country. It's just pending and not sending. My account details are correct. Please help me.,pending_transfer
+My transfer is still pending and I know the account numbers are correct.  Please help.,pending_transfer
+"I transferred money yesterday, but it still isn't available?",pending_transfer
+How long does a transfer stay pending?,pending_transfer
+How long do transfer pend for?,pending_transfer
+Why hasn't my transfer gone through yet?,pending_transfer
+When will the transfer go through?,pending_transfer
+Please explain why the transfers shows up as pending?,pending_transfer
+"I double checked that I have the correct account details , they're right for sure. Transfer is still pending since forever. What should be done now?",pending_transfer
+When will my transfer go through?,pending_transfer
+What is the cause that the transfer shows as pending?,pending_transfer
+When will the transfer be completed?,pending_transfer
+Pending transfer?,pending_transfer
+"I would like to know why my payment is still pending, can you help?",pending_transfer
+Someone transferred money to me and it doesn't show,pending_transfer
+How long does a transfer take to be confirmed?,pending_transfer
+I made a transfer 12 hours ago. Why is it still listed as pending?,pending_transfer
+"Why does my transfer say ""pending""?",pending_transfer
+How long can I expect a transfer to pend for?,pending_transfer
+For how long will my transfer be pending?,pending_transfer
+Transferring money in 2018 to another country shouldn't take this long. My transfer has been pending for too long. I verified my account details are correct.,pending_transfer
+Why is a money transfer not showing?,pending_transfer
+The transfer is coming up as pending the payment is due today. Will I be charged a fee?,pending_transfer
+I am still waiting for a money transfer to show,pending_transfer
+My transfer hasn't gone through yet.,pending_transfer
+I am confused as to why my transfer could still be pending.,pending_transfer
+How long does it take for a money transfer to show?,pending_transfer
+Can you remove my account please?,terminate_account
+"i want to close an account but im not sure about setting up a new one in the future, what do you recommend",terminate_account
+My account needs to be deleted.,terminate_account
+I would like to delete my account please.,terminate_account
+What steps do I need to take to close my account?,terminate_account
+I'm tired of all the problems I've had. I want to quit this account!,terminate_account
+Please delete my account right now!,terminate_account
+I want to close my account,terminate_account
+"unhappy with you, how to delete account",terminate_account
+I would like to delete my account.,terminate_account
+I am highly unsatisfied with this company and want to delete my account!,terminate_account
+I don't like your company. Delete my account.,terminate_account
+I would like to close my account.,terminate_account
+This company is terrible! Can you delete my account?,terminate_account
+"This company is bad, please delete my account.",terminate_account
+"please delete my account, your services are not up to par.",terminate_account
+I need your help in deleting my account.,terminate_account
+"The service of this company sucks, I need to terminate my account.",terminate_account
+Delete this account!,terminate_account
+How do I get rid of my account ASAP?,terminate_account
+"This company isn't good, I would like to delete my account.",terminate_account
+Can you delete my account please?,terminate_account
+I am not satisfied with your company and would like to delete my accounts!,terminate_account
+Please delete my account. I am not happy with the service from your company.,terminate_account
+Please terminate my account.,terminate_account
+I am sick of this damn company and want to close out my account.,terminate_account
+Please close my account. I am unsatisfied with your service.,terminate_account
+Please delete my account.,terminate_account
+"Your service is terrible,.  Delete my account,",terminate_account
+I want my account deleted!,terminate_account
+I am extremely unhappy with this app and want to get rid of my account?,terminate_account
+How do I delete my account?,terminate_account
+This company sucks! Can you delete my account?,terminate_account
+I wish to close my account. I do not like the service you provide.,terminate_account
+Can you help me get rid of my account?,terminate_account
+"I don't find your services useful anymore, how do I delete my account?",terminate_account
+"Please delete my account, this company is not working for me!",terminate_account
+I want to delete my account. I'm unhappy with the service you're providing.,terminate_account
+Can you tell me how to close my account?,terminate_account
+This company sucks! Can you terminate my account?,terminate_account
+What kind of cash machines would allow me to change my PIN?,change_pin
+Where do I change my PIN?,change_pin
+Is the bank the only place I can change my PIN>,change_pin
+"If I am overseas, how do I change my pin?",change_pin
+Can i change my PIN at the ATM?,change_pin
+How might  I change my PIN?,change_pin
+I would like to change my PIN but I am not currently in the country.,change_pin
+I would like to change my card PIN.,change_pin
+I want to set a new PIN,change_pin
+"I desperately need to change my PIN, but I'm overseas on vacation right now. How can I do this?",change_pin
+I need a new Pin how do I go about that?,change_pin
+Is there a location near me that i can change my PIN?,change_pin
+In what ATM can I change my pin?,change_pin
+I'd like to make a new PIN selection.,change_pin
+How do I set a new pin?,change_pin
+How do I update my PIN to a new number?,change_pin
+How can I change my Tholepin ?,change_pin
+My new pin needs to be set.,change_pin
+I want to choose a different PIN.,change_pin
+I would like to change my pin.,change_pin
+Am I able to change my PIN at any cash machines?,change_pin
+I am travelling for two more weeks but really need to change my PIN asap. What do I do?,change_pin
+I need to change my PIN. Can I do that at a cash machine?,change_pin
+Do cash machines let me change my pin?,change_pin
+How do I change my PIN?,change_pin
+I need to change my PIN.,change_pin
+May I receive a different card pin,change_pin
+What do I need to do to change my PIN?,change_pin
+Help me set up a new PIN?,change_pin
+"I am in Austria right now. I need to change my PIN ASAP, so can I still do this from here?",change_pin
+Where can I find instructions to change my PIN?,change_pin
+I need to change my pin but I am on the road.,change_pin
+How do I update the PIN on my account?,change_pin
+I need a new PIN.,change_pin
+Show me how to change my pin?,change_pin
+Please tell me which cash machines will allow me to change my pin.,change_pin
+What steps do I need to take to change my card PIN?,change_pin
+How to change the PIN on my card?,change_pin
+How can I change the PIN?  Do I have to go to a real bank?,change_pin
+dont understand why transfer failed,failed_transfer
+Please help me make a transfer. I keep receiving an error and I'm trying to make the initial mortgage payment for a flat I'm buying. What is the deal here?,failed_transfer
+My transfer didn't work,failed_transfer
+"Fix your system. I can't make transfers, I've tried like 5 times already.",failed_transfer
+Tell me why my transfer failed!,failed_transfer
+My transfer did not go through.,failed_transfer
+Why was I not able to complete a transfer?,failed_transfer
+Can you help me figure out what's happening? I'm trying to transfer money to a friend but it keeps getting returned. I'm not sure what i'm doing wrong.,failed_transfer
+Why did my transfer not go through?,failed_transfer
+My transfer didn't go through.,failed_transfer
+I could not get my transfer to happen correctly and was wondering why?,failed_transfer
+how come my transfer didn't work,failed_transfer
+"I transferred my funds, why did it not go through?",failed_transfer
+Why has my transfer failed?,failed_transfer
+Why did my transfer fail?,failed_transfer
+Why hasn't my transfer been made?,failed_transfer
+My transfer will not go through.,failed_transfer
+My transfer keeps failing and I just want to transfer the money can you please make it work?,failed_transfer
+"The transfer keeps failing , I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, Would you please check the issue ?",failed_transfer
+Why would a transfer fail?,failed_transfer
+What are your policies for card transfers?,failed_transfer
+Is the system down? I've been trying to do a transfer and have failed?,failed_transfer
+I tried to make a transfer but it failed,failed_transfer
+Why couldn't I complete a transfer?,failed_transfer
+My transfer appeared not to work.,failed_transfer
+What is stopping my money from transferring?,failed_transfer
+"Hi, I'm buying a flat and I'm trying to get my mortgage to go though. Every time I check I simply get an error message. Is there any way you can help me get this money transferred over. Thanks!",failed_transfer
+My attempted transfer failed.,failed_transfer
+"I can not seem to make a successful transfer, can you tell me what I'm doing wrong?",failed_transfer
+"Please help me as i am continuously facing the issue in transferring money to my friends, as all my transactions are getting failed.",failed_transfer
+"I am trying to make a transfer and am unsuccessful, can you please tell me why?",failed_transfer
+My transfer did not seem to work.,failed_transfer
+"I've now been trying to do a really standard transfer 5 times already. What's going on, is your system broken or something?!",failed_transfer
+help me with my transfer,failed_transfer
+Says my transfer can't be completed?,failed_transfer
+can you tell me why my transfer failed?,failed_transfer
+Why didn't my transfer go through?,failed_transfer
+I've attempted to do a very standard transfer and have tried 5 times at this point. Can you tell me what the issue is? Is the system down?,failed_transfer
+Can you provide a reason as to why my transfer did not work?,failed_transfer
+I tried to transfer money and it did not work.,failed_transfer
+I see some fees for cash withdraw.,cash_withdrawal_charge
+How come I was charged extra when I withdrew cash?,cash_withdrawal_charge
+Why am I being charged when I withdraw cash?,cash_withdrawal_charge
+What is this charge on my account for a cash withdrawl?,cash_withdrawal_charge
+Why are fees charged on cash withdrawals? I went to withdraw some money earlier today after shopping. There's a fee that wasn't there before.,cash_withdrawal_charge
+"How come you charge for cash withdrawals? I withdrew cash after buying groceries today, and there seems to be a new fee",cash_withdrawal_charge
+It looks like I was charged a withdrawal fee for going to my ATM. Why is that because I haven't been charged previously for doing so?,cash_withdrawal_charge
+"Do ATM cash withdrawals carry a charge now? They've been free in the past, but all of a sudden I have to pay to make ATM withdrawals?",cash_withdrawal_charge
+Why is there an extra charge for money that was withdrawn?,cash_withdrawal_charge
+Why was I charged a fee for withdrawing cash?,cash_withdrawal_charge
+Why did I get a fee?,cash_withdrawal_charge
+Why did my cash get charged a fee that should not be there.,cash_withdrawal_charge
+Why did I have to pay a fee when I got cash?,cash_withdrawal_charge
+"Hi, I am calling about a recent transaction that has happened on my account.  I recently went to the ATM, and tried to make a withdrawal on my account.  I just happened to check my transaction slip and noticed a fee for my withdrawal.  How can I resolve this, I didn't know fees were charged for this type of action.",cash_withdrawal_charge
+A fee was charged for my recent withdrawal.,cash_withdrawal_charge
+I got a fee for an ATM withdrawal.,cash_withdrawal_charge
+What is the reason for this fee I got after a simple cash withdrawal?,cash_withdrawal_charge
+Did you start charging for cash withdrawals? I thought it was free so far but noticed suddendly there is a fee. How much do I need to pay?,cash_withdrawal_charge
+Is there a fee for withdrawing cash?,cash_withdrawal_charge
+"I've notice I was charged for withdrawing cash, can you explain why?",cash_withdrawal_charge
+Why was my account charged for using an ATM?,cash_withdrawal_charge
+Why is there a charge on my account for taking out cash?,cash_withdrawal_charge
+An ATM fee was attached to my recent withdrawal.,cash_withdrawal_charge
+I thought cash withdrawals didn't have a fee,cash_withdrawal_charge
+Why did I get charged a fee when I tried to obtain cash?,cash_withdrawal_charge
+"While I was checking out in the grocery store, I realized I needed cash so I requested some.  However, I noticed there was a fee for this transaction.  Why did I get charged a fee?",cash_withdrawal_charge
+Using an ATM caused me to incur an additional fee. Why?,cash_withdrawal_charge
+I was charged extra for a withdrawal,cash_withdrawal_charge
+Is there a limit on how much I can withdraw from my account without being charged?,cash_withdrawal_charge
+"I thought cash withdrawals were free? Why have I been charged a fee? Also, how much is this fee?",cash_withdrawal_charge
+"More fees, this time for withdrawing my own cash. Why are you robbing me?",cash_withdrawal_charge
+I have never been charged a fee for cash withdrawal before. When did that change?,cash_withdrawal_charge
+I was charged for a cash withdrawal.,cash_withdrawal_charge
+Why did you charge me for a cash withdrawal?,cash_withdrawal_charge
+I took cash and got charged a fee,cash_withdrawal_charge
+Was charged an ATM fee despite it being a small withdrawal on the 1st day of the month. I thought I was allowed 200 per month?,cash_withdrawal_charge
+I had a wrong fee charged at this ATM.,cash_withdrawal_charge
+"When I got cash, I'm pretty sure there was a glitch that overcharged me.",cash_withdrawal_charge
+"My account got charged for taking out cash, why did this happen?",cash_withdrawal_charge
+Why is there a fee for withdrawing?,cash_withdrawal_charge
